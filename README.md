@@ -8,11 +8,9 @@
   * Managed project using an agile, iterative methodology.
 - <b>BLANK</b>
   - 
-- <b>BLANK</b>
+
   - 
   
-- <b>C# (.NET Desktop Applications)</b>
-  - 
  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
