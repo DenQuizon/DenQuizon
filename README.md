@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Personal Software Development Projects:</h2>
 
-* **NMC Quiz App** - [View Project](https://github.com/Your-Username/NMC-Quiz-App)
+* **NMC Quiz App** - [View Project](https://github.com/DenQuizon/NMC-Quiz-App)
   * A full-stack quiz application for nurses, built with Python (Flask), SQLite, and HTML/CSS.
   * Acted as project lead, defining features and architecture from concept to a live, deployed application on PythonAnywhere.
   * Managed project using an agile, iterative methodology.
