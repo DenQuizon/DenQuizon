@@ -1,6 +1,6 @@
 <h1>Hi, I'm ALDEN! <br/><a href="https://www.linkedin.com/in/aldenmquizon)">Data Anayst | IT Support | Program Coordnitor</a><a href="https://www.youtube.com/@Nexus_Loom"> | Aspiring YouTuber</a></h1>
 
-<h2>👨‍💻 Personal Software Development Projects:</h2>
+<h2>👨‍💻 Key Projects and Case Studies</h2>
 
 * **NMC Quiz App** - [View Project](https://github.com/DenQuizon/NMC-Quiz-App)
   * A full-stack quiz application for nurses, built with Python (Flask), SQLite, and HTML/CSS.
