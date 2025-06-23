@@ -7,10 +7,16 @@
   * Acted as project lead, defining features and architecture from concept to a live, deployed application on PythonAnywhere.
   * Managed project using an agile, iterative methodology.
  
-  
- 
+* **COVID-19 Provincial Tracking System** - [View Case Study](https://github.com/DenQuizon/Covid-Data-Tracking-System)
+    * Led the end-to-end development of a tracking database for 50k+ records using Excel and Power Query.
+    * Automated reporting, cutting turnaround time from 6 hours to 1 hour, enabling critical, real-time decisions for senior leadership.
 
-## 👨‍💻 Currently Working On
+* **Vaccination Data Reconciliation Project** - [View Case Study](https://github.com/DenQuizon/Data-Reconciliation-Reporting-Project)
+    * Led data quality and reconciliation efforts for a major public health vaccination database.
+    * Performed complex analysis using Excel Pivot Tables and presented findings to stakeholders to ensure data integrity.
+
+
+ ## 👨‍💻 Currently Working On
 
 * ☁️ Preparing for the AWS Certified Cloud Practitioner (CLF-C02) certification.
 * 📊 Completing the Google Data Analytics Professional Certificate.
