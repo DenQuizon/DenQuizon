@@ -10,7 +10,8 @@
   
  
 
-<h2>👨‍💻 Currently Working On</h2>
+## 👨‍💻 Currently Working On
+
 * ☁️ Preparing for the AWS Certified Cloud Practitioner (CLF-C02) certification.
 * 📊 Completing the Google Data Analytics Professional Certificate.
 * 🛡️ Working towards the Google Cybersecurity Professional Certificate.
