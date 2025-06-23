@@ -10,11 +10,8 @@
 * **COVID-19 Provincial Tracking System** - [View Case Study](https://github.com/DenQuizon/Covid-Data-Tracking-System)
     * Led the end-to-end development of a tracking database for 50k+ records using Excel and Power Query.
     * Automated reporting, cutting turnaround time from 6 hours to 1 hour, enabling critical, real-time decisions for senior leadership.
-
-* **Vaccination Data Reconciliation Project** - [View Case Study](https://github.com/DenQuizon/Data-Reconciliation-Reporting-Project)
-    * Led data quality and reconciliation efforts for a major public health vaccination database.
     * Performed complex analysis using Excel Pivot Tables and presented findings to stakeholders to ensure data integrity.
-
+   
 
  ## 👨‍💻 Currently Working On
 
