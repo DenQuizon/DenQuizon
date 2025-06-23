@@ -6,10 +6,7 @@
   * A full-stack quiz application for nurses, built with Python (Flask), SQLite, and HTML/CSS.
   * Acted as project lead, defining features and architecture from concept to a live, deployed application on PythonAnywhere.
   * Managed project using an agile, iterative methodology.
-- <b>BLANK</b>
-  - 
-
-  - 
+ 
   
  
 
