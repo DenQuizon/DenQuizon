@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Key Projects and Case Studies</h2>
 
+* **Key Worker Desktop App** - [View Project](https://github.com/DenQuizon/KeyWorkerApp)
+  * A complete, standalone desktop application for managing key worker review forms, built with Python and CustomTkinter.
+  * Features a secure login system with supervisor/staff roles, an activity log, and dynamic PDF report generation.
+  * Implemented secure password management, including forced password changes on first login and supervisor-level password resets.
+
 * **NMC Quiz App** - [View Project](https://github.com/DenQuizon/NMC-Quiz-App)
   * A full-stack quiz application for nurses, built with Python (Flask), SQLite, and HTML/CSS.
   * Acted as project lead, defining features and architecture from concept to a live, deployed application on PythonAnywhere.
