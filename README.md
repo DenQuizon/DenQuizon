@@ -1,72 +1,51 @@
-<h1>Hi, I'm ALDEN! <br/><a href="https://www.linkedin.com/in/aldenmquizon)">Data Anayst | IT Support | Program Coordnitor</a><a href="https://www.youtube.com/@Nexus_Loom"> | Aspiring YouTuber</a></h1>
+# 👋 Hi, I'm Alden!
+*Data Analyst | IT Support | Project Coordinator | Aspiring YouTuber*
 
-<h2>👨‍💻 Key Projects and Case Studies</h2>
+---
 
-* **Key Worker Desktop App** - [View Project](https://github.com/DenQuizon/KeyWorkerApp)
-  * A complete, standalone desktop application for managing key worker review forms, built with Python and CustomTkinter.
-  * Features a secure login system with supervisor/staff roles, an activity log, and dynamic PDF report generation.
-  * Implemented secure password management, including forced password changes on first login and supervisor-level password resets.
+## 🚀 About Me
 
-* **NMC Quiz App** - [View Project](https://github.com/DenQuizon/NMC-Quiz-App)
-  * A full-stack quiz application for nurses, built with Python (Flask), SQLite, and HTML/CSS.
-  * Acted as project lead, defining features and architecture from concept to a live, deployed application on PythonAnywhere.
-  * Managed project using an agile, iterative methodology.
- 
-* **COVID-19 Provincial Tracking System** - [View Case Study](https://github.com/DenQuizon/Covid-Data-Tracking-System)
-    * Led the end-to-end development of a tracking database for 50k+ records using Excel and Power Query.
-    * Automated reporting, cutting turnaround time from 6 hours to 1 hour, enabling critical, real-time decisions for senior leadership.
-    * Performed complex analysis using Excel Pivot Tables and presented findings to stakeholders to ensure data integrity.
-   
+Passionate Data Analyst and tech enthusiast dedicated to solving real-world problems with data. Experienced in SQL, Excel, and Tableau, with growing expertise in Python and R for automation and analytics. I enjoy building apps, streamlining workflows, and visualising insights.
 
- ## 👨‍💻 Currently Working On
+---
 
-* ☁️ Preparing for the AWS Certified Cloud Practitioner (CLF-C02) certification.
-* 📊 Completing the Google Data Analytics Professional Certificate.
-* 🛡️ Working towards the Google Cybersecurity Professional Certificate.
+## 📊 Data Analytics Portfolio
 
-<h2>📺 Popular YouTube Videos</h2>
+| Project                                                                                                                                              | Description                                                                                                                                             | Skills & Tech                         | Link                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------|
+| **COVID-19 Provincial Tracker**                                                                                                                      | Automated a database (50k+ records) for COVID-19, cut reporting time by 80%. Ensured data reliability and supported management with actionable reports. | Excel, Power Query, Data Cleaning      | [View Case Study](https://github.com/DenQuizon/Covid-Data-Tracking-System) |
+| **Key Worker Desktop App**                                                                                                                           | Built a desktop tool with custom login, supervisor roles, and PDF reporting. Used by healthcare support teams.                                           | Python, Tkinter, LLMs, Security        | [View Project](https://github.com/DenQuizon/KeyWorkerApp)                 |
+| **NMC Quiz App**                                                                                                                                     | Designed quiz app for nurses, from database to interface. Led full-stack development and deployment.                                                     | Python, Flask, SQL, Deployment         | [View Project](https://github.com/DenQuizon/NMC-Quiz-App)                  |
 
-- 
-- 
-- 
-- 
-- 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🛠️ Skills & Tools
 
-[<img align="left" alt="Nexus_Loom | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Alden Quizon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**Programming:** Python, SQL  
+**Data:** Excel (Pivot Tables, Power Query), Pandas  
+**Visualization:** TABLEU, Power BI, Matplotlib   
+**Other:** Git, Project Management  
+**AI:** Integrated LLMs for smart features (see project notes)
+
+---
+
+## 🏅 Certifications
+
+- **Google Data Analytics Professional Certificate** – *In progress*  
+  _(Skills applied in professional dashboards & reporting)_
+
+- **CompTIA A+** – *Pursuing formal certification*  
+  _(Already applying IT troubleshooting & systems knowledge in projects)_
+
+- **Tableau** – *Applied in professional projects; pursuing formal certification*
 
 
-[youtube]: https://www.youtube.com/@Nexus_Loom
-[linkedin]: https://www.linkedin.com/in/aldenmquizon/
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Connect with Me
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/aldenmquizon/) • [YouTube](https://www.youtube.com/@Nexus_Loom)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->## Hi there 👋
+---
 
-<!--
-**DenQuizon/DenQuizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open for data, tech, and cloud opportunities!*
