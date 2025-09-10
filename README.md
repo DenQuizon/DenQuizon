@@ -1,51 +1,53 @@
 # 👋 Hi, I'm Alden!
-*Data Analyst | IT Support | Project Coordinator | Aspiring YouTuber*
+
+**IT Support / Help Desk Analyst | Windows · Microsoft 365 · Remote Support · Spiceworks Ticketing | Data Automation Enthusiast**
 
 ---
 
-## 🚀 About Me
+## 🖥️ IT Support Demonstrations
 
-Passionate Data Analyst and tech enthusiast dedicated to solving real-world problems with data. Experienced in SQL, Excel, and Tableau, with growing expertise in Python and R for automation and analytics. I enjoy building apps, streamlining workflows, and visualising insights.
+These projects and exercises showcase my practical IT support skills.
+
+| Project / Demo               | Description                                                                                           | Skills & Tech                                 | Link |
+|------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|------|
+| **Spiceworks Ticketing Practice** | Created, categorised, escalated, and closed incidents in a Spiceworks sandbox. Demonstrated full incident lifecycle and SLA awareness. | Ticket lifecycle, categorisation, escalation, closure | (Add repo or screenshot link) |
+| **Troubleshooting SOPs**     | Markdown guides covering Outlook login issues, printer spooler resets, and Wi-Fi/VPN troubleshooting. | Documentation, knowledge base, user guidance  | (Add repo link) |
+| **Remote Support Examples**  | Provided support via AnyDesk and TeamViewer for staff, students, and family users.                    | Remote troubleshooting, safe access, privacy  | (Add repo link) |
+| **Automation Tools**         | Sample Excel/PowerShell/Python scripts to log issues, generate reports, and track recurring problems. | Excel Power Query, PowerShell, Python         | (Add repo link) |
 
 ---
 
-## 📊 Data Analytics Portfolio
+## 📊 Data & Automation Projects (Secondary Focus)
 
-| Project                                                                                                                                              | Description                                                                                                                                             | Skills & Tech                         | Link                                                      |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------|
-| **COVID-19 Provincial Tracker**                                                                                                                      | Automated a database (50k+ records) for COVID-19, cut reporting time by 80%. Ensured data reliability and supported management with actionable reports. | Excel, Power Query, Data Cleaning      | [View Case Study](https://github.com/DenQuizon/Covid-Data-Tracking-System) |
-| **Key Worker Desktop App**                                                                                                                           | Built a desktop tool with custom login, supervisor roles, and PDF reporting. Used by healthcare support teams.                                           | Python, Tkinter, LLMs, Security        | [View Project](https://github.com/DenQuizon/Key_Worker_Record_App)                 |
-| **NMC Quiz App**                                                                                                                                     | Designed quiz app for nurses, from database to interface. Led full-stack development and deployment.                                                     | Python, Flask, SQL, Deployment         | [View Project](https://github.com/DenQuizon/NMC-Quiz-App)                  |
+These projects show how I apply analytics and coding to improve processes.
+
+| Project                     | Description                                                                                           | Skills & Tech                          | Link |
+|-----------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------|------|
+| **COVID-19 Provincial Tracker** | Automated 50k+ record database; reduced reporting time by 80%. Ensured reliable data for decisions.   | Excel, Power Query, Data Cleaning       | [View](https://github.com/DenQuizon/Covid-Data-Tracking-System) |
+| **Key Worker Desktop App**     | Built desktop tool with custom login, supervisor roles, PDF reporting for healthcare teams.           | Python, Tkinter, Security               | [View](https://github.com/DenQuizon/Key_Worker_Record_App) |
+| **NMC Quiz App**               | Full-stack quiz app for nurses (DB + UI + analytics). Deployed and used for practice exams.           | Python, Flask, SQL, Deployment          | [View](https://github.com/DenQuizon/NMC-Quiz-App) |
 
 ---
 
 ## 🛠️ Skills & Tools
-
-**Programming:** Python, SQL  
-**Data:** Excel (Pivot Tables, Power Query), Pandas  
-**Visualization:** TABLEU, Power BI, Matplotlib   
-**Other:** Git, Project Management  
-**AI:** Integrated LLMs for smart features (see project notes)
+- **IT Support Tools:** Windows 10/11, Microsoft 365, Active Directory, Spiceworks, TeamViewer, AnyDesk  
+- **Networking:** LAN/Wi-Fi troubleshooting, VPN basics  
+- **Automation & Data (bonus):** Python, SQL, Excel (PivotTables, Power Query), Tableau, Power BI  
+- **Other:** SharePoint, Trello, Jira, SOP creation, user training  
 
 ---
 
 ## 🏅 Certifications
-
+- **CompTIA A+** – *In progress* (already applying troubleshooting & systems knowledge)  
+- **ITIL 4 Foundation** – *In progress*  
 - **Google Data Analytics Professional Certificate** – *In progress*  
-  _(Skills applied in professional dashboards & reporting)_
-
-- **CompTIA A+** – *Pursuing formal certification*  
-  _(Already applying IT troubleshooting & systems knowledge in projects)_
-
-- **Tableau** – *Applied in professional projects; pursuing formal certification*
-
+- **Tableau** – *Applied in projects; pursuing certification*  
 
 ---
 
 ## 🤝 Connect with Me
-
 [LinkedIn](https://www.linkedin.com/in/aldenmquizon/) • [YouTube](https://www.youtube.com/@Nexus_Loom)
 
 ---
 
-*Open for data, tech, and cloud opportunities!*
+*Currently applying for IT Support / Help Desk roles — building on my background in data analytics to automate and improve support processes.*
