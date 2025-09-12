@@ -10,7 +10,7 @@ These projects and exercises showcase my practical IT support skills.
 
 | Project / Demo               | Description                                                                                           | Skills & Tech                                 | Link |
 |------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|------|
-| **Spiceworks Ticketing Practice** | Created, categorised, escalated, and closed incidents in a Spiceworks sandbox. Demonstrated full incident lifecycle and SLA awareness. | Ticket lifecycle, categorisation, escalation, closure | (Add repo or screenshot link) |
+| **Spiceworks Ticketing Practice** | Created, categorised, escalated, and closed incidents in a Spiceworks sandbox. Demonstrated full incident lifecycle and SLA awareness. | Ticket lifecycle, categorisation, escalation, closure | [View](https://github.com/DenQuizon/Spiceworks-Ticketing-Demo-v1/tree/main)|
 | **Troubleshooting SOPs**     | Markdown guides covering Outlook login issues, printer spooler resets, and Wi-Fi/VPN troubleshooting. | Documentation, knowledge base, user guidance  | (Add repo link) |
 | **Remote Support Examples**  | Provided support via AnyDesk and TeamViewer for staff, students, and family users.                    | Remote troubleshooting, safe access, privacy  | (Add repo link) |
 | **Automation Tools**         | Sample Excel/PowerShell/Python scripts to log issues, generate reports, and track recurring problems. | Excel Power Query, PowerShell, Python         | (Add repo link) |
